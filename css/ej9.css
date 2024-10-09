@@ -1,0 +1,9 @@
+.primero{
+    cursor: cell;
+}
+.segundo{
+    cursor: help;
+}
+.tercero{
+    cursor:col-resize;
+}
