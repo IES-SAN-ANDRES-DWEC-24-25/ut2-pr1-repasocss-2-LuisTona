@@ -1,0 +1,39 @@
+body{
+    display: flex;
+}
+.caja{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border: solid 3px;
+    margin: 4px;
+}
+.ficha{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 2px;
+    position: absolute;
+}
+#ficha3{
+    background-color: yellow;
+}
+#ficha1{
+    background-color: red;
+}
+#ficha2{
+    background-color: green;
+    top: 25px;
+    left: 25px;
+}
+#ficha4{
+    background-color: blue;
+}
+

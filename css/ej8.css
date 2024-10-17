@@ -1,0 +1,28 @@
+p{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    display: inline-block;
+    width: 160px;
+    padding: 3px;
+    background-color: #f7f8e8;
+    text-align: center;
+    text-decoration: none;
+    border-bottom: solid 1px #eeeeee;
+}
+a:link{
+    color: green;
+}
+a:visited{
+    color: red;
+}
+a:hover{
+    background-color: #336699;
+    color:pink;
+}
+a:active{
+    background-color: #336699;
+    color: white;
+}

@@ -1,0 +1,22 @@
+table{
+    border-collapse: collapse;
+}
+th{
+    background-color: #6495ed;
+    padding: 10px 50px;
+    border-bottom: solid 1px white;
+    border-right: solid 1px white;
+    
+}
+tr th{
+    color: yellow;
+}
+thead th{
+    color: white;
+}
+td{
+    text-align: center;
+    background-color: #ed8f63;
+    border-bottom: solid 1px black;
+    border-right: solid 1px black;
+}
