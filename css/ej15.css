@@ -1,0 +1,28 @@
+div{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    padding-top:15px ;
+}
+#caja1{
+    background-color: red;
+    z-index: 1 ;
+    top: 5px;
+    left: 5px;
+}
+#caja2{
+    background-color: green;
+    z-index: 3;
+    top: 45px;
+    left: 45px;
+}
+#caja3{
+    background-color: blue;
+    z-index: 2;
+    top: 25px;
+    left: 25px;
+}
+a{
+    position: relative;
+    top:270px;
+}

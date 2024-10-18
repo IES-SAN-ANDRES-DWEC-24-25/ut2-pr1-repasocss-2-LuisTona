@@ -1,0 +1,21 @@
+#content{
+    width: 300px;
+}
+p::first-line{
+    color: red;
+}
+p::first-letter{
+    font-weight: bold;
+    font-size: 45px;
+    color: black;
+    float: left;
+}
+p::selection{
+    background-color: yellow;
+    color: red;
+}
+h2::after{
+    content: '\f015';
+    font-family: 'Font Awesome 6 Free';
+    margin-left: 10px;
+}
